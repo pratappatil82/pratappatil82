@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Pratap Patil 👋
 
-<!--
-**pratappatil82/pratappatil82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MS in Artificial Intelligence @ Northeastern University**  
+🤖 **Concentration:** Robotics & Agent-Based Systems
 
-Here are some ideas to get you started:
+I'm passionate about building intelligent systems that can perceive, reason, learn, and act autonomously.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests lie at the intersection of **Robotics, Reinforcement Learning, Multi-Agent Systems, and Artificial Intelligence**.
+
+### 🔬 Research Interests
+- Reinforcement Learning & Autonomous Decision-Making
+- Multi-Agent Systems & Coordination
+- Robotics & Intelligent Agents
+- AI Planning, Search & Optimization
+- Machine Learning
+
+### 🚀 Featured Project
+**[MediCoNav — Multi-Robot Hospital Delivery Simulation](https://github.com/okurine/mediconav)**
+
+A Python-based multi-robot hospital simulation featuring BFS pathfinding, priority-based scheduling, battery-aware robot allocation, and performance evaluation.
+
+### 🛠️ Technical Stack
+**Languages:** Python, C++, SQL  
+**AI/ML:** Scikit-learn, NumPy, Pandas  
+**Tools:** Git, GitHub, VS Code, Streamlit  
+**Concepts:** BFS, A*, Heuristic Search, Intelligent Agents
+
+### 🌱 Currently Exploring
+Reinforcement Learning • Multi-Agent Coordination • Autonomous Navigation • AI Research
+
+### 🤝 Let's Connect
+Open to research collaborations, internships, co-ops, and opportunities in Robotics and AI.
