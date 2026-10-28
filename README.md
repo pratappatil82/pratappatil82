@@ -20,10 +20,17 @@ My interests lie at the intersection of **Robotics, Reinforcement Learning, Mult
 A Python-based multi-robot hospital simulation featuring BFS pathfinding, priority-based scheduling, battery-aware robot allocation, and performance evaluation.
 
 ### 🛠️ Technical Stack
-**Languages:** Python, C++, SQL  
-**AI/ML:** Scikit-learn, NumPy, Pandas  
-**Tools:** Git, GitHub, VS Code, Streamlit  
-**Concepts:** BFS, A*, Heuristic Search, Intelligent Agents
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 
 ### 🌱 Currently Exploring
 Reinforcement Learning • Multi-Agent Coordination • Autonomous Navigation • AI Research
