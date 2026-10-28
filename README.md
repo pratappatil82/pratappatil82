@@ -38,7 +38,13 @@ Reinforcement Learning • Multi-Agent Coordination • Autonomous Navigation �
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pratappatil8282)
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratappatil8282)
+
 [![GitHub](https://img.shields.io/badge/GitHub-pratappatil82-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratappatil82)
 
-I'm open to research collaborations, internships, co-ops, and opportunities in Robotics, Reinforcement Learning, and Multi-Agent Systems.
+🎓 MS in Artificial Intelligence @ Northeastern University
+
+🤝 Open to research collaborations, internships, co-ops, and opportunities in Robotics, Reinforcement Learning, and Multi-Agent Systems.
