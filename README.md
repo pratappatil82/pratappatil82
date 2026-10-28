@@ -21,8 +21,6 @@ A Python-based multi-robot hospital simulation featuring BFS pathfinding, priori
 
 ### 🛠️ Technical Stack
 
-### 🛠️ Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -38,20 +36,15 @@ A Python-based multi-robot hospital simulation featuring BFS pathfinding, priori
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratappatil82&layout=compact&theme=transparent&hide_border=true)
 
-
-
 ### 🌱 Currently Exploring
 Reinforcement Learning • Multi-Agent Coordination • Autonomous Navigation • AI Research
 
 
 ### 📫 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratappatil8282)
 
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratappatil8282)
-
-[![GitHub](https://img.shields.io/badge/GitHub-pratappatil82-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratappatil82)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratappatil82)
 
 🎓 MS in Artificial Intelligence @ Northeastern University
 
