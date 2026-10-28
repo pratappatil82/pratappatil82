@@ -32,6 +32,14 @@ A Python-based multi-robot hospital simulation featuring BFS pathfinding, priori
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratappatil82&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratappatil82&layout=compact&theme=transparent&hide_border=true)
+
+
+
 ### 🌱 Currently Exploring
 Reinforcement Learning • Multi-Agent Coordination • Autonomous Navigation • AI Research
 
