@@ -19,6 +19,7 @@ My interests lie at the intersection of **Robotics, Reinforcement Learning, Mult
 
 A Python-based multi-robot hospital simulation featuring BFS pathfinding, priority-based scheduling, battery-aware robot allocation, and performance evaluation.
 
+
 ### 🛠️ Technical Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,22 +31,16 @@ A Python-based multi-robot hospital simulation featuring BFS pathfinding, priori
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
-### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratappatil82&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratappatil82&layout=compact&theme=transparent&hide_border=true)
-
-### 🌱 Currently Exploring
+###  Currently Exploring
 Reinforcement Learning • Multi-Agent Coordination • Autonomous Navigation • AI Research
 
 
-### 📫 Connect With Me
+###  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratappatil8282)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratappatil82)
 
-🎓 MS in Artificial Intelligence @ Northeastern University
 
 🤝 Open to research collaborations, internships, co-ops, and opportunities in Robotics, Reinforcement Learning, and Multi-Agent Systems.
